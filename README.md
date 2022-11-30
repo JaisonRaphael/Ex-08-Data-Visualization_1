@@ -18,9 +18,9 @@ Apply data visualization techniques to identify the patterns of the data.
 
 
 ## CODE:
-Program developed by : Shrruthilaya G
+Program developed by : JaisonRaphael.V
 
-Register number : 212221230097
+Register number : 212221230038
 ## Loading the dataset
 ```
 import pandas as pd
